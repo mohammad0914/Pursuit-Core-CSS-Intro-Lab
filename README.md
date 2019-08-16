@@ -21,7 +21,7 @@ Use the HTML below for the following questions:
     </p>
     </div>
 
-    <img src="https://s3.amazonaws.com/helpcoreyladovskyprojectdev/users/images/000/000/005/original/default.jpg" alt="" >
+    <img src="https://www.breakthrough-pt.com/wp-content/uploads/2014/11/female-default-profile-photo.png" alt="" >
 
     <div >
       <h3>Here are some of my Skills!</h3>
@@ -52,7 +52,7 @@ Use the HTML below for the following questions:
 
     <h2>Contact Me</h2>
     <div>
-     Email me at: <a href="mailto:corey@pursuit.org" target="_top">corey@pursuit.org</a>
+     Email me at: <a href="mailto:hello@pursuit.org" target="_top">hello@pursuit.org</a>
     </div>
 
     <ul>
