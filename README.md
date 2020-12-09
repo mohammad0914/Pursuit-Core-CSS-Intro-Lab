@@ -16,7 +16,7 @@
   * Make a pull request on github.`
   * Submit the link to your pull request on Canvas. 
 
-This repo has an `about.html` file inside of it.  Add a CSS file that creates a website that looks like the image below:
+This repo has an `about.html` file inside of it.  Add a CSS file that creates a website that looks like the image below.  Feel free to edit the HTML however you like!
 
 ![styledpage](./styledPage.png)
 
@@ -34,7 +34,6 @@ This repo has an `about.html` file inside of it.  Add a CSS file that creates a 
 - All p tags should have 20 pixels of padding on the top and the bottom - not on the sides.
 - h1 tags should have a 30px font size
 - Lists should have 30px of padding on the left.
-- Give your page a background color. Then, make it a [gradient](https://cssgradient.io/)
 
 # Bonus
 
